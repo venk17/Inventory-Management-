@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://inventory-management-2ku2.onrender.com/api';
 
 class ApiService {
   async request(url, options = {}) {
